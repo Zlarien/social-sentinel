@@ -1,0 +1,11 @@
+# Social Sentinel - Dependencies
+# Core
+python-dotenv>=1.0.0
+openai>=1.30.0
+
+# Scraping (optional - Apify)
+apify-client>=1.7.0
+
+# Dashboard
+streamlit>=1.30.0
+pandas>=2.1.0
